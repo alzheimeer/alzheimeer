@@ -2,8 +2,8 @@
 <img src="https://github.com/alzheimeer/alzheimeer/blob/master/multimedia/ladrillocontent.gif" class="responsive"/>
 
 <h3>MY STATS 📊</h3>
-<a><img width="432" img align="left" alt="Edgar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alzheimeer&show_icons=true&theme=algolia" class="responsive" />
-</a><a><img width="400" img align="center" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alzheimeer&layout=compact&hide=html&theme=algolia" class="responsive"/></a>
+<a><img width="432" img align="left" alt="Edgar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alzheimeer&show_icons=true&theme=great-gatsby" class="responsive" />
+</a><a><img width="400" img align="center" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alzheimeer&layout=compact&hide=html&theme=great-gatsby" class="responsive"/></a>
 
 ### Connect with me:
 
