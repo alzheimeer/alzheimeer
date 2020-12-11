@@ -1,5 +1,5 @@
-<img src="https://github.com/alzheimeer/alzheimeer/blob/master/multimedia/ladrillo.gif" class="responsive"/>
-<img src="https://github.com/alzheimeer/alzheimeer/blob/master/multimedia/ladrillocontent.gif" class="responsive"/>
+<img src="https://github.com/alzheimeer/alzheimeer/blob/master/multimedia/bosque.gif" class="responsive"/>
+<img src="https://github.com/alzheimeer/alzheimeer/blob/master/multimedia/bosquecontent.gif" class="responsive"/>
 
 <h3>MY STATS 📊</h3>
 <a><img width="432" img align="left" alt="Edgar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alzheimeer&show_icons=true&theme=react" class="responsive" />
