@@ -1,16 +1,8 @@
+<img src="https://github.com/alzheimeer/alzheimeer/blob/master/multimedia/space.gif" class="responsive"/>
 
-# HI, IM Edgar Quintero ("ALZHEIMEER")
-## I'm a Software Developer!
-- 🔭 And also a Electronic Engineer.🤯<br>
-- 🥅 I am an electronic salesian and following this guideline I study electronic engineering<br>
-and currently I am dedicated to specializing in Full Stack programming, Virtual reality and Augmented Reality.<br>
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Become a good software developer.
-
-## WHAT I DO 🚀
-* I love coding, especially learning a lot about C pure
-* I play video games "TEKKEN and Call Of Duty and I am the founder of TekkenColombia
-* I watch a lot of Series and I am a cinephile.
+<h3>MY STATS 👾</h3>
+<a><img width="432" img align="left" alt="Edgar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alzheimeer&show_icons=true&theme=algolia" class="responsive" />
+</a><a><img width="400" img align="center" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alzheimeer&layout=compact&hide=html&theme=algolia" class="responsive"/></a>
 
 ### Connect with me:
 
@@ -38,6 +30,7 @@ and currently I am dedicated to specializing in Full Stack programming, Virtual 
 
 <br />
 <br />
+
 
 ---
 ## MY STATS 📊
