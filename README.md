@@ -19,6 +19,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<br />
 
 <h3 align="center">CONTACT ME 😎</h3>
 <p align="center">
@@ -31,7 +32,6 @@
     <!-- gmail-->
     <a href="mailto:964@holbertonschool.com"><img src="https://i.pinimg.com/originals/84/7c/08/847c083cc09040091439e3c05d1fedde.png" width="40px" alt="e-mail"></a> &nbsp; &nbsp;
 </p>
-<br />
 
 [website]: https://alzheimeer.github.io/
 [twitter]: https://twitter.com/alzheimeer
