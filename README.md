@@ -1,4 +1,4 @@
-<img src="https://github.com/alzheimeer/alzheimeer/blob/master/multimedia/ladrillos.png" class="responsive"/>
+<img src="https://github.com/alzheimeer/alzheimeer/blob/master/multimedia/ladrillo.gif" class="responsive"/>
 <img src="https://github.com/alzheimeer/alzheimeer/blob/master/multimedia/ladrillocontent.gif" class="responsive"/>
 
 <h3>MY STATS 📊</h3>
