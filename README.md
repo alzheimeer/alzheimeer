@@ -1,23 +1,23 @@
 <img src="https://github.com/alzheimeer/alzheimeer/blob/master/multimedia/donkeykong.gif" class="responsive"/>
 <img src="https://github.com/alzheimeer/alzheimeer/blob/master/multimedia/donkeykongcontent.gif" class="responsive"/>
 
-<h3>MY STATS 📊</h3>
+<h3>ESTADISTICAS 📊</h3>
 <a><img width="432" img align="left" alt="Edgar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alzheimeer&show_icons=true&theme=gotham" class="responsive" />
 </a><a><img width="400" img align="center" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alzheimeer&layout=compact&hide=html&theme=gotham" class="responsive"/></a>
 
 <h3 align="center">CONTACTAME 😎</h3>
 <p align="center">
     <!-- linkedin -->
-    <a href="https://www.linkedin.com/in/alzheimeer/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="40px" alt="LinkedIn"></a> &nbsp; &nbsp;
+    <a href="https://www.linkedin.com/in/alzheimeer/"><img src="https://fogcxy.com/logos/linkedin.png" width="40px" alt="LinkedIn"></a> &nbsp; &nbsp;
     <!-- twitter -->
-    <a href="https://twitter.com/Alzheimeer"><img src="https://fogcxy.com/logos/twitter.png" width="40px" alt="Twitter"> </a> &nbsp; &nbsp;
+    <a href="https://twitter.com/Alzheimeer"><img src="https://fogcxy.com/logos/twitter.png" width="40px" alt="X"> </a> &nbsp; &nbsp;
     <!-- Instagram-->
-    <a href="https://www.instagram.com/alzheimeer/?hl=es-la"><img src="https://fogcxy.com/logos/instagram.png" width="40px" alt="Instagram"></a> &nbsp; &nbsp;
+    <a href="https://www.instagram.com/alzheimeer/"><img src="https://fogcxy.com/logos/instagram.png" width="40px" alt="Instagram"></a> &nbsp; &nbsp;
     <!-- gmail-->
-    <a href="mailto:fogniebla@gmail.com"><img src="https://i.pinimg.com/originals/84/7c/08/847c083cc09040091439e3c05d1fedde.png" width="40px" alt="e-mail"></a> &nbsp; &nbsp;
+    <a href="mailto:fogniebla@gmail.com"><img src="https://fogcxy.com/logos/gmail.png" width="40px" alt="e-mail"></a> &nbsp; &nbsp;
 </p>
 
-### LANGUAJES AND TOOLS
+### LENGUAJES, FRAMEWORKS Y LIBRERIAS
 
 <p align="center">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
