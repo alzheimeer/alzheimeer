@@ -12,7 +12,7 @@
     <!-- twitter -->
     <a href="https://twitter.com/Alzheimeer"><img src="https://fogcxy.com/logos/twitter.png" width="40px" alt="Twitter"> </a> &nbsp; &nbsp;
     <!-- Instagram-->
-    <a href="https://www.instagram.com/alzheimeer/?hl=es-la"><img src="https://fogcxy.com/logos/twitter.png" width="40px" alt="Instagram"></a> &nbsp; &nbsp;
+    <a href="https://www.instagram.com/alzheimeer/?hl=es-la"><img src="https://fogcxy.com/logos/instagram.png" width="40px" alt="Instagram"></a> &nbsp; &nbsp;
     <!-- gmail-->
     <a href="mailto:fogniebla@gmail.com"><img src="https://i.pinimg.com/originals/84/7c/08/847c083cc09040091439e3c05d1fedde.png" width="40px" alt="e-mail"></a> &nbsp; &nbsp;
 </p>
