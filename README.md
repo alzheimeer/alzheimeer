@@ -50,7 +50,7 @@
 
 ### 🎮 Hobbies & Curiosidades
 <p align="center">
-  <i>🎮 Apasionado por los videojuegos  • 🧠 Aprendiendo nuevas arquitecturas • ☕ Adicto al café y al buen código</i>
+  <i>🎮 Apasionado por los videojuegos clásicos • 🧠 Aprendiendo nuevas arquitecturas • ☕ Adicto al café y al buen código</i>
 </p>
 
 <br/>
