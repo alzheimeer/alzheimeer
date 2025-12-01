@@ -1,51 +1,56 @@
-<img src="https://github.com/alzheimeer/alzheimeer/blob/master/multimedia/donkeykong.gif" class="responsive"/>
-<img src="https://github.com/alzheimeer/alzheimeer/blob/master/multimedia/donkeykongcontent.gif" class="responsive"/>
+<br/>
 
-<h3>ESTADISTICAS 📊</h3>
-<a href="https://github.com/alzheimeer">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=alzheimeer&show_icons=true&theme=gotham" alt="Edgar's GitHub Stats" width="432" class="responsive" />
-</a>
-<a href="https://github.com/alzheimeer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alzheimeer&layout=compact&hide=html&theme=gotham" alt="Top Languages" width="400" class="responsive" />
-</a>
-
-<h3 align="center">CONTACTAME 😎</h3>
 <p align="center">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/alzheimeer/">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn" width="40" style="margin-right: 12px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FFB7&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Niklauss;Desarrollador+Fullstack+Senior;Creador+de+templates+en+Angular%2C+React+y+m%C3%A1s" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/alzheimeer/alzheimeer/blob/master/multimedia/donkeykongcontent.gif?raw=true" width="100%" max-width="600px" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,255,183,0.2);" />
+</p>
+
+<br/>
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alzheimeer&show_icons=true&theme=radical&border_radius=10&bg_color=0D1117&text_color=FFFFFF&icon_color=00FFB7" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alzheimeer&layout=compact&hide=html&theme=radical&border_radius=10&bg_color=0D1117&text_color=FFFFFF" width="48%" />
+</p>
+
+---
+
+### 🛠️ Tecnologías & Herramientas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,react,ts,js,nodejs,express,nest,mongo,mysql,postgresql,git,github,vscode,linux,figma,docker" />
+</p>
+
+---
+
+### 📬 ¡Conéctate conmigo!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alzheimeer/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
-  <!-- X (Twitter) -->
-  <a href="https://twitter.com/Alzheimeer">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@v11/icons/x.svg" alt="X" width="40" style="margin-right: 12px;">
+  <a href="https://twitter.com/Alzheimeer" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/alzheimeer/">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@v11/icons/instagram.svg" alt="Instagram" width="40" style="margin-right: 12px;">
+  <a href="https://www.instagram.com/alzheimeer/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  
-  <!-- Gmail -->
   <a href="mailto:fogniebla@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@v11/icons/gmail.svg" alt="Gmail" width="40">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-### LENGUAJES, FRAMEWORKS Y LIBRERIAS
+---
 
+### 🎮 Hobbies & Curiosidades
 <p align="center">
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+  <i>🎮 Apasionado por los videojuegos  • 🧠 Aprendiendo nuevas arquitecturas • ☕ Adicto al café y al buen código</i>
 </p>
-<br />
+
+<br/>
