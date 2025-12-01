@@ -7,21 +7,17 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/alzheimeer/alzheimeer/blob/master/multimedia/donkeykongcontent.gif?raw=true" width="90%" alt="Donkey Kong"/>
+      <img src="https://github.com/alzheimeer/alzheimeer/blob/master/multimedia/donkeykongcontent.gif?raw=true" width="90%" alt="Donkey Kong">
 
-      <br/><br/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Tekken_8_logo.svg/320px-Tekken_8_logo.svg.png" width="140" alt="Tekken">
 
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Tekken_8_logo.svg/320px-Tekken_8_logo.svg.png" width="140" />
-      <br/>
-      <strong style="color:#EA1E1E;">🥊 TEKKEN PLAYER</strong>
+      <p><b>🥊 TEKKEN PLAYER</b></p>
     </td>
 
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=alzheimeer&show_icons=true&bg_color=0D1117&title_color=00FFB7&text_color=FFFFFF&icon_color=00FFB7&hide_border=true" width="90%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=alzheimeer&show_icons=true&bg_color=0D1117&title_color=00FFB7&text_color=FFFFFF&icon_color=00FFB7&hide_border=true" width="90%" alt="Stats">
 
-      <br/>
-
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alzheimeer&layout=compact&bg_color=0D1117&title_color=00FFB7&text_color=FFFFFF&hide_border=true" width="90%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alzheimeer&layout=compact&bg_color=0D1117&title_color=00FFB7&text_color=FFFFFF&hide_border=true" width="90%" alt="Langs">
     </td>
   </tr>
 </table>
@@ -37,8 +33,8 @@
 
 <div align="center">
   <h3>📬 ¡Conéctate conmigo!</h3>
-  <a href="https://www.linkedin.com/in/alzheimeer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/Alzheimeer"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://www.instagram.com/alzheimeer/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:fogniebla@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/alzheimeer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/Alzheimeer"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://www.instagram.com/alzheimeer/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:fogniebla@gmail.com"><img src="httpsel=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
