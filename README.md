@@ -1,22 +1,21 @@
 <div align="center">
-  <!-- Typing SVG con tus datos originales -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FFB7¢er=true&vCenter=true&width=600&lines=Hola%2C+soy+Niklauss;Desarrollador+Fullstack+Senior;Creador+de+templates+en+Angular%2C+React+y+m%C3%A1s" alt="Typing SVG" />
+  <!-- Typing SVG corregido -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FFB7&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Niklauss;Desarrollador+Fullstack+Senior;Creador+de+templates+en+Angular%2C+React+y+m%C3%A1s" alt="Typing SVG" />
 </div>
 
 <br />
-
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
 
     <td width="50%" valign="top">
       <div align="center">
-        <!-- GIF Donkey Kong (Original) -->
+        <!-- GIF Donkey Kong -->
         <img src="https://github.com/alzheimeer/alzheimeer/blob/master/multimedia/donkeykongcontent.gif?raw=true" width="100%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,255,183,0.2);" alt="Donkey Kong" />
         
         <br/><br/>
         
-        <!-- Sección TEKKEN (Nueva) -->
+        <!-- TEKKEN -->
         <a href="#">
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Tekken_8_logo.svg/320px-Tekken_8_logo.svg.png" width="140" alt="Tekken 8 Logo" />
         </a>
@@ -25,24 +24,25 @@
       </div>
     </td>
     
-    <!-- Columna Derecha: Estadísticas (Fixed URLs) -->
+    <!-- Columna Derecha -->
     <td width="50%" valign="top">
       <div align="center">
-        <!-- Estadísticas GitHub (Arregladas para fondo oscuro) -->
+        <!-- Stats GitHub -->
         <img src="https://github-readme-stats.vercel.app/api?username=alzheimeer&show_icons=true&bg_color=0D1117&title_color=00FFB7&text_color=FFFFFF&icon_color=00FFB7&border_color=30363d&border_radius=10&hide_border=true" width="100%" alt="Stats" />
         
         <br/>
         
-        <!-- Top Langs (Arregladas para fondo oscuro) -->
+        <!-- Lenguajes -->
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alzheimeer&layout=compact&bg_color=0D1117&title_color=00FFB7&text_color=FFFFFF&hide_border=true&border_color=30363d&border_radius=10" width="100%" alt="Langs" />
       </div>
     </td>
+
   </tr>
 </table>
 
 <br/>
 
-<!-- Tecnologías (Tus iconos originales + estilo centrado) -->
+<!-- Tecnologías -->
 <div align="center">
   <h3>🛠️ Tecnologías & Herramientas</h3>
   <img src="https://skillicons.dev/icons?i=angular,react,ts,js,nodejs,express,nest,mongo,mysql,postgresql,git,github,vscode,linux,figma,docker&theme=dark" alt="Stack" />
@@ -50,7 +50,7 @@
 
 <br/>
 
-<!-- Redes Sociales (Estilo original actualizado a Shields.io estandar) -->
+<!-- Redes Sociales -->
 <div align="center">
   <h3>📬 ¡Conéctate conmigo!</h3>
   <a href="https://www.linkedin.com/in/alzheimeer/" target="_blank">
