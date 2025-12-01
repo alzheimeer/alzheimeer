@@ -1,19 +1,17 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FFB7&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Niklauss;Desarrollador+Fullstack+Senior;Creador+de+templates+en+Angular%2C+React+y+m%C3%A1s" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FFB7&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Niklauss;Desarrollador+Fullstack+Senior;" />
 </div>
 
 <br/>
 
 <p float="left" align="center">
-  <img src="https://github.com/alzheimeer/alzheimeer/blob/master/multimedia/donkeykongcontent.gif?raw=true" width="47%" />
+  <img src="https://github.com/alzheimeer/alzheimeer/blob/master/multimedia/donkeykongcontent.gif?raw=true"/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=alzheimeer&show_icons=true&bg_color=0D1117&title_color=00FFB7&text_color=FFFFFF&icon_color=00FFB7&hide_border=true" width="47%" />
+
 </p>
 
 <p float="left" align="center">
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Tekken_8_logo.svg/320px-Tekken_8_logo.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Tekken_8_logo.svg/330px-Tekken_8_logo.svg.png)" width="30%" />
-
-  <img src="https://github-readme-stats.vercel.app/api?username=alzheimeer&layout=compact&bg_color=0D1117&title_color=00FFB7&text_color=FFFFFF&hide_border=true" width="47%" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Tekken_8_logo.svg/330px-Tekken_8_logo.svg.png" width="30%" />
 </p>
 
 <div align="center">
