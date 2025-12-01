@@ -7,14 +7,25 @@
 
 <h3 align="center">CONTACTAME 😎</h3>
 <p align="center">
-    <!-- linkedin -->
-    <a href="https://www.linkedin.com/in/alzheimeer/"><img src="https://fogcxy.com/logos/linkedin.png" width="40px" alt="LinkedIn"></a> &nbsp; &nbsp;
-    <!-- twitter -->
-    <a href="https://twitter.com/Alzheimeer"><img src="https://fogcxy.com/logos/twitter.png" width="40px" alt="X"> </a> &nbsp; &nbsp;
-    <!-- Instagram-->
-    <a href="https://www.instagram.com/alzheimeer/"><img src="https://fogcxy.com/logos/instagram.png" width="40px" alt="Instagram"></a> &nbsp; &nbsp;
-    <!-- gmail-->
-    <a href="mailto:fogniebla@gmail.com"><img src="https://fogcxy.com/logos/gmail.png" width="40px" alt="e-mail"></a> &nbsp; &nbsp;
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/alzheimeer/">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn" width="40" style="margin-right: 12px;">
+  </a>
+  
+  <!-- X (Twitter) -->
+  <a href="https://twitter.com/Alzheimeer">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@v11/icons/x.svg" alt="X" width="40" style="margin-right: 12px;">
+  </a>
+  
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/alzheimeer/">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@v11/icons/instagram.svg" alt="Instagram" width="40" style="margin-right: 12px;">
+  </a>
+  
+  <!-- Gmail -->
+  <a href="mailto:fogniebla@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@v11/icons/gmail.svg" alt="Gmail" width="40">
+  </a>
 </p>
 
 ### LENGUAJES, FRAMEWORKS Y LIBRERIAS
