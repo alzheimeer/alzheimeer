@@ -5,6 +5,8 @@
 <br/>
 
 <p float="left" align="center">
+  
+  <img src="https://github.com/alzheimeer/alzheimeer/blob/master/multimedia/donkeykong.gif?raw=true"/>
   <img src="https://github.com/alzheimeer/alzheimeer/blob/master/multimedia/donkeykongcontent.gif?raw=true"/>
 
 
