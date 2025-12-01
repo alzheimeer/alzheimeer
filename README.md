@@ -2,8 +2,12 @@
 <img src="https://github.com/alzheimeer/alzheimeer/blob/master/multimedia/donkeykongcontent.gif" class="responsive"/>
 
 <h3>ESTADISTICAS 📊</h3>
-<a><img width="432" img align="left" alt="Edgar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alzheimeer&show_icons=true&theme=gotham" class="responsive" />
-</a><a><img width="400" img align="center" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alzheimeer&layout=compact&hide=html&theme=gotham" class="responsive"/></a>
+<a href="https://github.com/alzheimeer">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=alzheimeer&show_icons=true&theme=gotham" alt="Edgar's GitHub Stats" width="432" class="responsive" />
+</a>
+<a href="https://github.com/alzheimeer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alzheimeer&layout=compact&hide=html&theme=gotham" alt="Top Languages" width="400" class="responsive" />
+</a>
 
 <h3 align="center">CONTACTAME 😎</h3>
 <p align="center">
